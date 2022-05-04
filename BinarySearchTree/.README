@@ -1,1 +1,9 @@
+Binary Search tree implementation in C.
+the code supports:
 
+1-Insert node to the tree.
+2-Delete node in the tree.
+3-Search a node in the tree.
+4-Find max & min nodes in the tree.
+5-Print the tree in inorder form.
+6-Find the Height of the tree.
