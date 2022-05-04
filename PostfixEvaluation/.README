@@ -1,1 +1,6 @@
 
+C code to evaluate equations represented in postfix notation.
+
+this algorithm works for only 1 digited numbers(result could be more). If an N digit number is desired 
+some changes have to happen. you should seperate each number and adjust the algorithm
+to work wtih it.
