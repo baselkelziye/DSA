@@ -1,5 +1,6 @@
 # Data-Structures-Algorithms
 
-Data structures and algorithms implemented in C.
+Some Data structures & algorithms implemented in C.
 
-1-Reverse an array of char using stack implementation.
+Note: Each folder has its own README file for more information.
+
