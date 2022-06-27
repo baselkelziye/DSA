@@ -1,3 +1,3 @@
 # DSA
 
-Data Structres and Algorithms implemented in C.
+Various Data Structres and Algorithms implemented in C.
